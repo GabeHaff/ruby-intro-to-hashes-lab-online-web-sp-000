@@ -103,5 +103,4 @@ monopoly =
     }
   }
 	   }
-	 end
 end 
